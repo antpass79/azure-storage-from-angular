@@ -1,0 +1,3 @@
+move azcopy.exe e:\
+cd /d e:\ 
+& ".\azcopy.exe" copy AZCOPY_COMMAND_PLACEHOLDER

@@ -1,0 +1,4 @@
+{
+    "StorageAccount": "<<your-azure-storage-account-name>>",
+    "OutputFolder": null
+}
